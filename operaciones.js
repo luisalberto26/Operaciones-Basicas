@@ -2,8 +2,8 @@
 // operaciones básicas: suma, resta, multiplicación, división y módulo.
 // Finalmente muestra los resultados en la consola.
 
-let numero1 = 10;   // Number
-let numero2 = 5;    // Number
+let numero1 = 10;   // Numero
+let numero2 = 5;    // Numero
 
 let suma = numero1 + numero2;
 let resta = numero1 - numero2;
